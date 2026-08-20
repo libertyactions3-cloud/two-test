@@ -39,7 +39,7 @@ JustTeams is a feature-rich, high-performance teams plugin designed for modern M
 - **Economy Integration** - Vault support with team bank system
 - **Rich Visuals** - MiniMessage formatting with gradients and custom colors
 - **Customizable GUIs** - Dummy items support for enhanced visual customization
-- **Permission System** - Role-based permissions (Owner, Admin, Moderator, Member)
+- **Permission System** - Role-based permissions (Owner, Admin, Moderator, Member) 
 - **Hook Support** - Vault, PlaceholderAPI, PvPManager (all optional)
 - **Folia Ready** - Full support for multi-threaded region servers with optimized scheduler
 - **Geyser/Bedrock Support** - Native platform indicators and fully compatible menus
