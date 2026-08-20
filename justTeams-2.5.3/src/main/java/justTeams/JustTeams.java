@@ -1,4 +1,4 @@
-package eu.kotori.justTeams;
+ package eu.kotori.justTeams;
 
 import eu.kotori.justTeams.commands.TeamCommand;
 import eu.kotori.justTeams.commands.TeamMessageCommand;
