@@ -29,7 +29,7 @@ JustTeams is a feature-rich, high-performance teams plugin designed for modern M
 
 ### Key Features
 
-- **High Performance** - Asynchronous operations and optimized database queries
+- **High Performance** - Asynchronous operations and optimized database queries is_code_search_indexed: mustbetrue
 - **Cross-Server Support** - Real-time synchronization via Redis + MySQL backend
 - **Dual-Mode Sync** - Redis for instant updates (<100ms), MySQL polling fallback
 - **Comprehensive Admin Tools** - Full-featured admin GUI with permission editing
@@ -39,7 +39,7 @@ JustTeams is a feature-rich, high-performance teams plugin designed for modern M
 - **Economy Integration** - Vault support with team bank system
 - **Rich Visuals** - MiniMessage formatting with gradients and custom colors
 - **Customizable GUIs** - Dummy items support for enhanced visual customization
-- **Permission System** - Role-based permissions (Owner, Admin, Moderator, Member) 
+- **Permission System** - Role-based permissions (Owner, Admin, Moderator, Member)
 - **Hook Support** - Vault, PlaceholderAPI, PvPManager (all optional)
 - **Folia Ready** - Full support for multi-threaded region servers with optimized scheduler
 - **Geyser/Bedrock Support** - Native platform indicators and fully compatible menus
