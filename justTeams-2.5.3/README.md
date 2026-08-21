@@ -29,7 +29,7 @@ JustTeams is a feature-rich, high-performance teams plugin designed for modern M
 
 ### Key Features
 
-- **High Performance** - Asynchronous operations and optimized database queries is_code_search_indexed: mustbetrue
+- **High Performance** - Asynchronous operations and optimized database queries
 - **Cross-Server Support** - Real-time synchronization via Redis + MySQL backend
 - **Dual-Mode Sync** - Redis for instant updates (<100ms), MySQL polling fallback
 - **Comprehensive Admin Tools** - Full-featured admin GUI with permission editing
